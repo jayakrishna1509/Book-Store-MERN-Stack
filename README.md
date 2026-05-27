@@ -1,7 +1,7 @@
 # 📚 Book Store
 
-A full-stack Book Store application built as a college project using the MERN stack.  
-The application helps manage users, books, and authentication with email verification.
+A full-stack Book Store application built as a dynamic project using the MERN Stack.  
+The application helps manage users, books, and authentication with email verification with notifications.
 
 ---
 
