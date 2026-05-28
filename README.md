@@ -5,6 +5,14 @@ The application helps manage users, books, and authentication with email verific
 
 ---
 
+## ✅ Deployment
+
+### Backend
+The backend is deployed and can be accessed at: [https://book-store-mern-stack-bewg.onrender.com](https://book-store-mern-stack-bewg.onrender.com)
+
+### Frontend
+The frontend is deployed and can be accessed at: [https://book-store-mern-stack-bewg.onrender.com](https://book-store-mern-stack-bewg.onrender.com)
+
 ## 🚀 Features
 
 - User Registration & Login
@@ -118,5 +126,18 @@ To build the frontend for production:
 ```bash
 npm run build
 ```
+
+## 🚩 API EndPoints
+### Backend API EndPoints
+```
+POST /api/v1/auth/register - Register a new user
+POST /api/v1/auth/login - Login user
+POST /api/v1/auth/verify-otp - Verify OTP
+POST /api/v1/auth/forgot-password - Forgot password
+PUT /api/v1/auth/reset-password - Reset password
+GET /api/v1/auth/me - Get current user
+GET /api/v1/auth/logout - Logout user
+```
+
 ## 🔷 Conclusion
 This project demonstrates a complete full-stack application with modern web development write the code and secure authentication mechanisms.
