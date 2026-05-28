@@ -79,7 +79,7 @@ return (
           <button
             type="submit"
             disabled={loading}
-            className="w-full font-semibold bg-black text-white py-3 rounded-lg hover:bg-white hover:text-black border-2 border-black transition disabled:opacity-60 disabled:cursor-not-allowed"
+            className="w-full font-semibold bg-black text-white py-3 rounded-lg hover:bg-white hover:text-black border-2 border-black transition disabled:cursor-not-allowed"
           >
             RESET PASSWORD
           </button>
