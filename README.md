@@ -8,10 +8,18 @@ The application helps manage users, books, and authentication with email verific
 ## ✅ Deployment
 
 ### Backend
-The backend is deployed and can be accessed at: [https://book-store-mern-stack-bewg.onrender.com](https://book-store-mern-stack-bewg.onrender.com)
+The backend is deployed and can be accessed at
+```
+[https://book-store-mern-stack-bewg.onrender.com]
+(https://book-store-mern-stack-bewg.onrender.com)
+```
 
 ### Frontend
-The frontend is deployed and can be accessed at: [https://book-store-mern-stack-bewg.onrender.com](https://book-store-mern-stack-bewg.onrender.com)
+The frontend is deployed and can be accessed at
+```
+[https://book-store-mern-stack-prj.vercel.app/]
+(https://book-store-mern-stack-prj.vercel.app/)
+```
 
 ## 🚀 Features
 
